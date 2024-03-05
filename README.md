@@ -1,6 +1,8 @@
 # 📊 <ins>Data Analytics Interactive Dashboard</ins>
  SuperStore Tableau Dashboard & Bike Sales Excel Dashboard
-
+<html>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bmQBu3aSF0DxadphkG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/after-effects-animacion-koncepto-bmQBu3aSF0DxadphkG">via GIPHY</a></p>
+</html>
 # BikeSales Dashboard
 This project is completely made using Excel.
 The process involves- 
