@@ -1,4 +1,4 @@
-# Data Analytics Interactive Dashboard
+# 📊 <u>Data Analytics Interactive Dashboard</u>
  SuperStore Tableau Dashboard & Bike Sales Excel Dashboard
 
 # BikeSales Dashboard
