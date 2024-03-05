@@ -1,8 +1,6 @@
 # Data Analytics Interactive Dashboard
  SuperStore Tableau Dashboard & Bike Sales Excel Dashboard
 
-[](https://giphy.com/gifs/after-effects-animacion-koncepto-bmQBu3aSF0DxadphkG)
-
 # BikeSales Dashboard
 This project is completely made using Excel.
 The process involves- 
@@ -24,7 +22,7 @@ The Process involves-
 
 ![](./SuperStore/Dashboard.png)
 
-View My Project on [Tableau](https://public.tableau.com/views/SuperStoreDashboard)
+View My Project on [Tableau](https://public.tableau.com/app/profile/ayesha.siddiqa8048/viz/SuperStoreDashboard_17095719073680/SUPERSTOREDASHBOARD)
 
  # 🤝 Stay Connected
  - 💼 **Linkedin:** [Ayesha Siddiqa](https://www.linkedin.com/in/ayesha67?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
